@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing al objeto con snapshot, y actualizando cuando se modifica el objeto El cliente es Ignacio 1`] = `
+Object {
+  "balance": 500,
+  "nombre": "Ignacio modificado 2",
+  "tipo": "premium",
+}
+`;
